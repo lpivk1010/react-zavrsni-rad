@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyAHqjBVbdbKWehuh9TnoAgv-moB_Cdp9-4",
+  "authDomain": "react-hotel-website.firebaseapp.com",
+  "databaseURL": "https://react-hotel-website.firebaseio.com",
+  "projectId": "react-hotel-website",
+  "storageBucket": "react-hotel-website.appspot.com",
+  "messagingSenderId": "715617858064",
+  "appId": "1:715617858064:web:73a364b8991238b84c5095",
+  "measurementId": "G-Q1JX441LJX"
+}
